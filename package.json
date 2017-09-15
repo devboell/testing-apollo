@@ -1,7 +1,7 @@
 {
-  "name": "basic-react-bp",
+  "name": "testing-apollo",
   "version": "1.0.0",
-  "description": "Basic react boiler with jest.",
+  "description": "",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server",
@@ -31,10 +31,12 @@
     "webpack-dev-server": "^2.5.1"
   },
   "dependencies": {
+    "apollo-client": "^1.9.2",
     "enzyme": "^2.9.1",
     "lodash": "^4.17.4",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
+    "react-apollo": "^1.4.15",
     "react-dom": "^15.6.1",
     "react-hot-loader": "3.0.0-beta.6",
     "webpack": "^3.2.0"
